@@ -1,0 +1,24 @@
+body{
+    background-image: url(outrun-1p.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+h1{
+    background-color: rgb(51, 104, 100);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-family: sans-serif;
+    text-shadow: 2px 2px red;
+}
+img {
+    border-radius: 5px;
+    box-shadow: 0 0 10px 5px burlywood;
+}
+#end{
+    font-weight: bold;
+    font-family: sans-serif;
+    color: yellow;
+    font-size: 30px;
+}
